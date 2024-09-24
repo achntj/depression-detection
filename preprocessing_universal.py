@@ -141,4 +141,3 @@ def preprocessing(df):
     
     return df
 
-print("Hello, this function is the updated one. :)")
